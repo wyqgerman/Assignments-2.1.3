@@ -25,7 +25,7 @@
 
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             Console.WriteLine("Choose an operation:");
             Console.WriteLine("1. Add(int num1, int num2)");
